@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Splendora — Corporate Event Management</title>
+  <meta name="description" content="Splendora - Corporate event management in Bengaluru. We plan, produce, and manage impactful events including conferences, offsites, product launches, and more.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #222;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #444;
+      margin-bottom: 10px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      background: #eee;
+      margin: 8px 0;
+      padding: 12px;
+      border-radius: 6px;
+    }
+    .cta {
+      display: inline-block;
+      margin-top: 20px;
+      background: #0066cc;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 6px;
+      text-decoration: none;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Splendora</h1>
+    <p>Corporate Event Management</p>
+    <nav>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+
+  <section id="hero" style="text-align:center;">
+    <h2>From brief to brilliant events</h2>
+    <p>We plan, produce, and manage high-impact corporate events across India.</p>
+    <a class="cta" href="https://wa.me/917406063285?text=Hi%20Team%2C%20I%20need%20help%20with%20a%20corporate%20event." target="_blank">Chat on WhatsApp</a>
+    <a class="cta" href="tel:7406063285">Call Us</a>
+    <a class="cta" href="mailto:Events@splendoragroups.com">Email Us</a>
+  </section>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Townhalls & Offsites</li>
+      <li>Conferences & Summits</li>
+      <li>Product Launches</li>
+      <li>Exhibition Stalls</li>
+      <li>Awards & Annual Days</li>
+      <li>Corporate Gifting</li>
+    </ul>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>Splendora is a full-service corporate event management company based in Bengaluru.  
+    We deliver seamless, stress-free event experiences across India. Our team takes care of everything—venue, stage, sound, fabrication, hospitality, travel, permissions, and show-day ops—so you can focus on your guests and business outcomes.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>📍 Bengaluru, Karnataka</p>
+    <p>📞 7406063285</p>
+    <p>💬 <a href="https://wa.me/917406063285" target="_blank">WhatsApp</a></p>
+    <p>✉️ <a href="mailto:Events@splendoragroups.com">Events@splendoragroups.com</a></p>
+    <p>🔗 <a href="https://www.linkedin.com/in/splendora-groups-1488b333a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">LinkedIn</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Splendora. All rights reserved.</p>
+  </footer>
+</body>
+</html>
